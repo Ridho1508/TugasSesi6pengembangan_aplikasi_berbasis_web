@@ -58,19 +58,26 @@ flutter run
 
 | Home Screen | Detail Screen | Add Post Screen |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) | ![Add](screenshots/add.png) |
+| ![Home]<img width="407" height="758" alt="image" src="https://github.com/user-attachments/assets/4eb8bef0-efa6-4f34-9ae0-d1ea0496e3de" />
+ | ![Detail]<img width="409" height="755" alt="image" src="https://github.com/user-attachments/assets/8552867b-4706-48ce-a04b-cee9003f5f09" />
+ | ![Add] <img width="401" height="739" alt="image" src="https://github.com/user-attachments/assets/b053b9d3-bae6-4c1b-954e-ffa56d3dd5bc" />
+ |
 
 ### Kondisi Khusus
 
 | Error Internet Mati | SnackBar Berhasil |
 |---|---|
-| ![Error](screenshots/error.png) | ![SnackBar](screenshots/snackbar.png) |
+| ![Error]<img width="401" height="694" alt="image" src="https://github.com/user-attachments/assets/39ae2060-1175-44bb-a3f0-dac11ea71c43" />
+ | ![SnackBar]<img width="405" height="747" alt="image" src="https://github.com/user-attachments/assets/0882b0f2-58a3-4ee6-afd3-cffc922bcecf" />
+ |
 
 ### Tambahan
 
 | Pencarian | Filter Event | Tidak Ditemukan | Validasi Form |
 |---|---|---|---|
-| ![Pencarian](screenshots/search.png) | ![Event](screenshots/filter_event.png) | ![Kosong](screenshots/not_found.png) | ![Validasi](screenshots/validation.png) |
+| ![Pencarian]<img width="403" height="763" alt="image" src="https://github.com/user-attachments/assets/62bd37d3-284e-4b7c-8a2b-f9653ce9d6b0" />
+ | ![Event]<img width="397" height="748" alt="image" src="https://github.com/user-attachments/assets/09ffa662-df3e-4cc1-9556-bb347472c22f" />
+
 
 ## Pembuat
 
